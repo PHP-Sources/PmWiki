@@ -2,13 +2,13 @@
 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/pmwiki.webp" width="48" height="48" alt="PmWiki">
 
-**PmWiki 2.5.8** – Le wiki open source léger, flexible et sans base de données.
+**PmWiki 2.5.9** – Le wiki open source léger, flexible et sans base de données.
 
-### Points forts
-- Très léger et rapide (fonctionne avec des fichiers texte)
+### Points forts de cette version
+- Fonctionne sans base de données (fichiers texte purs)
 - Syntaxe wiki simple et puissante
 - Hautement personnalisable via des skins et plugins
-- Pas besoin de base de données
+- Très léger et rapide
 - Excellent pour la documentation, les sites collaboratifs et les knowledge bases
 - Facile à installer et à maintenir
 
@@ -16,14 +16,13 @@
 
 **Explorez rapidement les fichiers via notre explorateur :**
 
-👉 **[📂 Explorer PmWiki 2.5.8](https://phpsources.net/x7g3p2.php?id=2037&name=pmwiki-latest-2.5.8.zip)**
+👉 **[📂 Explorer PmWiki 2.5.9](https://phpsources.net/x7g3p2.php?id=2037&name=pmwiki-2.5.9.zip)**
 
-**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**
-
-👉 **[PmWiki sur phpsources.net](https://phpsources.net/script/php/wiki/2037-11_pmwiki,2.5.8)**
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**  
+👉 **[PmWiki sur phpsources.net](https://phpsources.net/script/php/wiki/2037-12_pmwiki,2.5.9)**
 
 ### 📜 Anciennes versions
-*(Aucune ancienne version pour le moment)*
+- **PmWiki 2.5.8** → [Fiche complète](https://phpsources.net/script/php/wiki/2037-11_pmwiki,2.5.8) | [Explorer les fichiers](https://phpsources.net/x7g3p2.php?id=2037&name=pmwiki-latest-2.5.8.zip)
 
 ### Licence
 Distribué sous licence **GPL**.
